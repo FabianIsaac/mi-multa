@@ -14,3 +14,6 @@ Esto nos instalara y abrira el programa en modo debug
 
 
 Es necesario tener node instalado
+
+
+Si no funciona contactar al programador
